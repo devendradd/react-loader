@@ -15,7 +15,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         {/* <Loader data='ths is data' /> */}
-        <Loader isLoaderActive={true} text="Please wait i am logging you in..."/>
+        <Loader isLoaderActive={true} text="Please wait for login..."/>
       </div>
     );
   }
